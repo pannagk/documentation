@@ -30,7 +30,7 @@ https://sso.cloudera.com/
 
 image::images/Register_to_SSO.png[]
 
-NOTE: Make sure registration is done by using an official email id.
+NOTE: Make sure registration is done using an official email id.
 
 image::images/Registration_Details.png[]
 
