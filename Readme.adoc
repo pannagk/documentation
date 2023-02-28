@@ -22,7 +22,7 @@ This document outlines the steps to validate/integrate on CDP for,
 
 == Register on Cloudera SSO
 
-*_Skip the below steps and jump to <<dev_license_request>> if you are already registered on Cloudera SSO._*
+*_Skip the below steps and jump to <<partner_portal_access>> if you are already registered on Cloudera SSO._*
 
 
 [.underline]*Step1:* Register yourself and your team members who will be working on this certification engagement in Cloudera SSO by accessing the below URL.
@@ -39,7 +39,7 @@ image::images/Registration_Details.png[]
 
 [.underline]*Step 3:* After verification of the email id, you will be redirected to profile creation page. Please submit the required details to  complete the *SSO* account creation.
 
-== Register on Cloudera Partner Portal
+== Register on Cloudera Partner Portal [[partner_portal_access]]
 
 [.underline]*Step1:* Please submit the form available at below URL. 
 
@@ -65,7 +65,7 @@ image::images/Select_IHV.png[]
 
 Once the above application is approved you will be notified over the email containing the URL to access the *Partner Portal*.
 
-== Request For Development License [[dev_license_request]]
+== Request For Development License 
 
 Once the access to Partner Portal is approved, please follow the below steps.
 
@@ -73,7 +73,7 @@ Once the access to Partner Portal is approved, please follow the below steps.
 +
 https://cloudera-portal.force.com/clouderapartners/s/
 
-. Navigate to _*Technical*_ dropdown and select Developer License Request.
+. Navigate to *_Technical_* dropdown and select *_Developer License Request_*.
 +
 image::images/Dropdown_Portal.png[]
 
